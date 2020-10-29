@@ -1,0 +1,23 @@
+#h1r{
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #F0A500;
+  text-align: center;
+  
+  }
+  article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    text-align: center;
+    background-color: black;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: black;
+    color: #fff;
+}
